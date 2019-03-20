@@ -142,3 +142,8 @@ border-radius: 10px;
 	align-items:center;
 	flex-direction: row;
 }
+
+.image {
+	border-width: 5px;
+	border-color: white;
+	border-style: solid;
